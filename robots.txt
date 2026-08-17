@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-tb5ek7.indocuan.space/sitemap.xml
